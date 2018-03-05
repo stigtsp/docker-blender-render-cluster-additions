@@ -1,0 +1,3 @@
+[submodule "Blender-Network-Render-Additions"]
+	path = Blender-Network-Render-Additions
+	url = https://github.com/WARP-LAB/Blender-Network-Render-Additions
